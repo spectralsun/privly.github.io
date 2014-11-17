@@ -4,7 +4,7 @@ title: Donate
 weight: 4
 ---
 
-Privly is a <a href="https://www.privly.org/content/privly-gains-non-profit-status" target="_blank">federally recognized non-profit</a> organization. Your financial contributions are tax-deductable in the United States.
+Privly is a <a href="https://www.privly.org/content/privly-gains-non-profit-status" target="_blank">federally recognized non-profit</a> organization. Your financial contributions to the Privly Foundation are eligible for tax deductions in the United States.
 
 Your time is just as valuable as your money, if you have the skills to move us forward, please consider [volunteering your time](http://www.privly.org/content/how-get-started).
 
